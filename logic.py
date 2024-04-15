@@ -52,7 +52,7 @@ class Logic:
         self.cells = self.cs.get_all_values()
         self.rows = len(self.cells)
         self.cameras = []
-        self.time_diff = 4
+        self.time_diff = 1
         self.nvr_dict = {}
         self.count_cam_ping = 0
         self.count_nvr_ping = 0
