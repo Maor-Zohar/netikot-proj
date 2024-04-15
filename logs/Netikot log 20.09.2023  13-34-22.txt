@@ -1,0 +1,516 @@
+Netikot Log 20.09.2023  13-34-22:מצלמות עם תקינות גבוהה:
+- יהודה צומת אל פוואר - 123 דרום 141.226.91.69:90 2 942Alfa!# Dahua . Executing time is: 0.40625 seconds.
+- יהודה צומת יהודה  95.35.55.192:90 2 942Yehu!# Dahua . Executing time is: 0.28125 seconds.
+- עציון אפרת הואלי 95.35.28.175:90 2 942Efdh!# Dahua . Executing time is: 0.28125 seconds.
+- יהודה צומת אידנא 2.54.86.220:90 2 942Zidn!# Dahua . Executing time is: 0.125 seconds.
+- יהודה צומת אל פוואר - 123 דרום 141.226.91.69:90 1 942Alfa!# Dahua . Executing time is: 0.0625 seconds.
+- אפרים כיכר אלימלך ב' 46.210.106.236:1025 1 942Elib!$ Dahua . Executing time is: 0.046875 seconds.
+- הבקעה צומת חדין צלצלן 46.210.114.227:90 3 942Hadi!# Dahua . Executing time is: 0.046875 seconds.
+- יהודה פילבוקס 410 109.253.4.111:90 1 942P410!# Dahua . Executing time is: 0.046875 seconds.
+- יהודה בית חגי מזרח דרומית 2.54.234.63:90 1 942Bhmd! Hikvision . Executing time is: 0.046875 seconds.
+- אפרים פילבוקס 418 37.25.35.166:90 1 942P418!$ Hikvision . Executing time is: 0.046875 seconds.
+- בנימין ציר התות למזרח 46.210.106.39:1025 1 V!21nt875 Dahua . Executing time is: 0.03125 seconds.
+- יהודה צומת אידנא 2.54.86.220:90 3 942Zidn!# Dahua . Executing time is: 0.03125 seconds.
+- יהודה צומת אידנא 2.54.86.220:90 1 942Zidn!# Dahua . Executing time is: 0.03125 seconds.
+- יהודה קילקס (צפונית) 46.210.119.18:90 2 942Kilz!# Dahua . Executing time is: 0.03125 seconds.
+- יהודה צומת בית ענון - סעיר 130.185.100.94:90 2 942Anun!# Dahua . Executing time is: 0.03125 seconds.
+- יהודה צומת בית ענון - אליאס 91.135.107.189:90 1 942Anun!# Dahua . Executing time is: 0.03125 seconds.
+- מנשה צומת אבני חפץ 80.250.156.185:90 2 942Zavnh!# Dahua . Executing time is: 0.03125 seconds.
+- הבקעה חסם גיתית 176.12.164.192:90 1 942Giti!# Dahua . Executing time is: 0.015625 seconds.
+- אפרים מתג 30 - רנתיס 141.226.91.185:90 1 942Rant!$ Hikvision . Executing time is: 0.015625 seconds.
+- אפרים צומת 581 (180) 141.226.91.181:90 3 nili180890! Hikvision . Executing time is: 0.015625 seconds.
+- יהודה צומת הזית 46.210.114.58:90 2 942Haza!# Hikvision . Executing time is: 0.015625 seconds.
+- אפרים צומת הפרסה 46.210.115.94:90 1 942Zpar!$ Hikvision . Executing time is: 0.015625 seconds.
+- בנימין בית סירא - שער קיפי 95.35.26.129:90 1 942Sira!# Dahua . Executing time is: 0.015625 seconds.
+- בנימין גבעון המשוקעת 130.185.100.93:90 1 942Givo!# Dahua . Executing time is: 0.015625 seconds.
+- הבקעה ורד יריחו 238 46.210.99.150:90 2 942Ver!# Hikvision . Executing time is: 0.015625 seconds.
+- עציון מגדל עוז 84.228.164.214:91 1 942Mioz!# Hikvision . Executing time is: 0.015625 seconds.
+- בנימין צומת מישור אדומים 185.246.252.199:90 3 942Mish!# Dahua . Executing time is: 0.015625 seconds.
+- בנימין צומת מישור אדומים 185.246.252.199:90 1 942Mish!# Dahua . Executing time is: 0.015625 seconds.
+- בנימין צומת 142 (187) 95.35.61.117:90 1 942Z142!# Hikvision . Executing time is: 0.015625 seconds.
+- הבקעה אדם צפוני 91.135.107.181:90 3 942Adam!# Dahua . Executing time is: 0.015625 seconds.
+- שומרון צומת רחלים 46.210.122.252:90 1 Rachel564@ Hikvision . Executing time is: 0.015625 seconds.
+- יהודה פילבוקס 410 109.253.4.111:90 2 942P410!# Dahua . Executing time is: 0.015625 seconds.
+- יהודה צומת אדוריים 141.226.91.183:90 2 942Ador!# Hikvision . Executing time is: 0.015625 seconds.
+- יהודה צומת בית ענון - סעיר 130.185.100.94:90 1 942Anun!# Dahua . Executing time is: 0.015625 seconds.
+- יהודה צומת פני חבר 95.35.54.244:90 4 942Zpne!# Dahua . Executing time is: 0.015625 seconds.
+- יהודה צומת פני חבר 95.35.54.244:90 3 942Zpne!# Dahua . Executing time is: 0.015625 seconds.
+- יהודה כרמל 46.210.81.60:90 2 942Carm!# Dahua . Executing time is: 0.015625 seconds.
+- מנשה צומת האורות 2.55.68.103:90 1 942Zhoro!# Hikvision . Executing time is: 0.015625 seconds.
+- מנשה צומת 0- מזרח\מערב (144) 80.250.156.69:90 3 942Z0mm!# Dahua . Executing time is: 0.015625 seconds.
+- מנשה צומת אום ריחן 95.35.112.8:90 1 942Zumr!# Dahua . Executing time is: 0.015625 seconds.
+- מנשה צומת אום ריחן 95.35.112.8:90 3 942Zumr!# Dahua . Executing time is: 0.015625 seconds.
+- עציון צומת 330 - בית לחם 130.185.100.99:90 3 942P330!# Dahua . Executing time is: 0.015625 seconds.
+- עציון פילבוקס 100 130.185.100.102:90 1 942P100!# Dahua . Executing time is: 0.015625 seconds.
+- עציון פילבוקס 100 130.185.100.102:90 3 942P100!# Dahua . Executing time is: 0.015625 seconds.
+- עציון עזריה - כיכר מעלה אדומים 130.185.100.97:90 1 942Cmad!# Hikvision . Executing time is: 0.015625 seconds.
+- עציון מעלה אדומים 7 מגה 95.35.53.192:90 1 942Madu!# Hikvision . Executing time is: 0.015625 seconds.
+- עציון אפרת דרום (ממזרח) 2.55.96.89:90 1 942Efde!# Dahua . Executing time is: 0.015625 seconds.
+- שומרון צומת ג'ית 46.210.120.78:90 1 942Zjit!# Hikvision . Executing time is: 0.015625 seconds.
+- שומרון צומת כפר תפוח 176.12.135.210:90 1 942Zktap!# Hikvision . Executing time is: 0.015625 seconds.
+- שומרון צומת תפוח מערב 185.196.126.224:90 1 tapuhW890! Hikvision . Executing time is: 0.015625 seconds.
+- שומרון רחלים 95.35.29.31:90 1 942Rahe!# Hikvision . Executing time is: 0.015625 seconds.
+- שומרון צומת יצהר הגדולה - 147 46.210.119.108:90 1 942Zitz!# Hikvision . Executing time is: 0.015625 seconds.
+- יהודה צומת אל פוואר - 123 צפון 130.185.102.46:90 2 942Alfa!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה חסם בקעות 130.185.98.242:90 2 942Bkao!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת 748 (9M) 176.12.133.133:90 1 942Z328!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת קרנ''ש 109.253.242.248:90 1 942Karn!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת קרנ''ש 109.253.242.248:90 2 942Karn!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מערב 2 80.250.158.72:90 1 942Elw2!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מערב 1 109.253.4.120:90 1 942Elw1!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מערב 1 109.253.4.120:90 2 942Elw1!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים מתג 30 - רנתיס 141.226.91.185:90 2 942Rant!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת עזון עתמה 46.210.83.215:90 1 942Azun!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת עזון עתמה 46.210.83.215:90 2 942Azun!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מזרח 3 82.102.157.24:90 2 942Ele3!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מזרח 3 82.102.157.24:90 1 942Ele3!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס 418 37.25.35.166:90 2 942P418!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס 180 141.226.91.181:90 1 nili180890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס 180 141.226.91.181:90 2 nili180890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 581 (180) 141.226.91.181:90 2 nili180890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים בולם 50 95.35.55.174:90 1 942Bole!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים בולם 50 95.35.55.174:90 2 942Bole!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים בולם 50 95.35.55.174:90 3 942Bole!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים גשר זאוויה 46.210.119.167:90 1 942Zawi!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים גשר אתונות (36) 130.185.98.240:90 1 942Aton!$ Dahua . Executing time is: 0.0 seconds.
+- אפרים גשר אתונות (36) 130.185.98.240:90 2 942Aton!$ Dahua . Executing time is: 0.0 seconds.
+- אפרים כיכר אלימלך א' 176.12.165.5:90 1 942Elia!$ Dahua . Executing time is: 0.0 seconds.
+- אפרים צומת עאבוד 46.210.115.9:90 1 942Zabu!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת ברוקין 46.210.118.88:90 1 942Bruk!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת ברוקין 46.210.118.88:90 2 942Bruk!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים ברוקין 80.250.150.247:90 1 942Bruk!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים ברוקין 80.250.150.247:90 2 942Bruk!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת הפרסה 46.210.115.94:90 2 942Zpar!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים גשר ברקן 95.35.55.110:90 1 942Bark!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים גשר ברקן 95.35.55.110:90 2 942Bark!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת נבי צלאח 130.185.102.44:90 3 942Nevi!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת חארס (45) 80.250.153.107:90 1 942Hars!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת חארס (45) 80.250.153.107:90 2 942Hars!$ Hikvision . Executing time is: 0.0 seconds.
+- בנימין חניון יונתן הקטן 95.35.29.195:93 1 yaniv318 Dahua . Executing time is: 0.0 seconds.
+- בנימין חניון יונתן הקטן 95.35.29.195:93 2 yaniv318 Dahua . Executing time is: 0.0 seconds.
+- בנימין צומת מעלה לבונה צפון 95.35.54.219:90 1 levona890! Dahua . Executing time is: 0.0 seconds.
+- בנימין מרקם חיים מצבח 46.210.98.96:90 1 942Hirm!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין בית עור אל פוקא 80.250.150.215:90 1 942Fuka!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת אום צפא 2.55.107.169:90 1 942Umtz!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין גבעון המשוקעת 130.185.100.93:90 2 942Givo!# Dahua . Executing time is: 0.0 seconds.
+- אפרים נחליאל 1 84.110.61.50:90 1 EdutM!523 Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת ביר זית עליון 188.64.203.100:90 2 942Zbze!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת דהרייה 109.253.5.111:90 1 942Daha!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין שער אוהד 46.210.112.78:90 1 942Ohad!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס ראס כרכר 80.250.152.42:90 2 942Rask!$ Hikvision . Executing time is: 0.0 seconds.
+- הבקעה ורד יריחו 238 46.210.99.150:90 3 942Ver!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת ביתין 37.25.39.145:90 1 942Zbit!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין פילבוקס גפן 46.210.84.171:90 1 942Gefe! Hikvision . Executing time is: 0.0 seconds.
+- בנימין פילבוקס גפן 46.210.84.171:90 2 942Gefe! Hikvision . Executing time is: 0.0 seconds.
+- בנימין חיזמא צומת 12 46.210.120.249:90 2 942Hizm!# Dahua . Executing time is: 0.0 seconds.
+- בנימין צומת סילוואד - גלעין 46.210.108.50:90 1 942Silw!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת א-סויה 2.55.77.119:90 3 942Asui!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת א-סויה 2.55.77.119:90 2 942Asui!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 538 (203) 46.210.113.240:90 2 942Z538!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 164 (סינג'יל) 46.210.112.70:90 1 942Sang!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 164 (סינג'יל) 2.55.95.116:90 1 942Sang!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 164 (סינג'יל) 2.55.95.116:90 2 942Sang!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת רימונים 80.250.152.153:90 4 942Rimo!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת מישור אדומים 185.246.252.199:90 2 942Mish!# Dahua . Executing time is: 0.0 seconds.
+- בנימין צומת אלון 95.35.112.83:90 1 942Alon!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת נבי צלאח 130.185.102.44:90 1 942Nevi!$ Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת מוסא עלמי 2.55.98.137:90 1 942Musa!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת מוסא עלמי 2.55.98.137:90 2 942Musa!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת מצפה שלם 46.210.121.54:90 1 942Msha!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה צומת מצפה שלם 46.210.121.54:90 2 942Msha!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה ורד יריחו 238 46.210.99.150:90 1 942Ver!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה בית הערבה 91.135.108.222:90 2 942Bhar!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת 748 (5M) 80.250.152.79:90 1 942Z328!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת 748 (5M) 80.250.152.79:90 2 942Z328!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת מצפה יריחו 80.250.155.186:90 1 942Mitz!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה צומת מצפה יריחו 80.250.155.186:90 2 942Mitz!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה חסם תייסר 91.135.107.179:90 1 942Tais!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה חסם תייסר 91.135.107.179:90 2 942Tais!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה אדם צפוני 91.135.107.181:90 2 942Adam!# Dahua . Executing time is: 0.0 seconds.
+- אפרים צומת נבי צלאח 130.185.102.44:90 2 942Nevi!$ Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת גבעות 37.25.39.142:90 2 942Gvao!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת 143 (197) 95.35.54.243:90 1 942Z197!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה ארגמן 95.35.25.136:90 2 942Arga!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה ארגמן 95.35.25.136:90 1 942Arga!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת פצאל 95.35.31.227:90 1 942Patz!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה ברוש הבקעה(דרומי) 91.135.107.182:90 1 942Brod!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה כרמל 46.210.81.60:90 1 942Carm!# Dahua . Executing time is: 0.0 seconds.
+- בנימין צומת ביר זית תחתון 46.210.85.54:90 1 942Zbzt!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה פילבוקס 410 109.253.4.111:90 3 942P410!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת אידנא-תרקומיא(109) 46.210.84.120:90 1 942Zidt!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת אידנא 2.54.86.220:90 4 942Zidn!# Dahua . Executing time is: 0.0 seconds.
+- יהודה מוצב חורסה 176.12.130.138:90 1 942Hurs!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה מוצב חורסה 176.12.130.138:90 2 942Hurs!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת דהרייה (יציאה) 95.35.54.214:90 1 942Zdae!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת ביתין 37.25.39.145:90 2 942Zbit!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת אדוריים 141.226.91.183:90 1 942Ador!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת אל פוואר - 123 צפון 130.185.102.46:90 1 942Alfa!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת חברון דרום (צומת 200) 2.55.121.157:90 1 942Hevr!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת חברון דרום (צומת 200) 2.55.121.157:90 2 942Hevr!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה גשר כאחיל 95.35.112.63:90 1 942Kahe!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה גשר כאחיל 95.35.112.63:90 2 942Kahe!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת הזית 46.210.114.58:90 1 942Haza!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת הכבשים - 7 מגה 2.55.111.48:90 1 942Kvas!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת בית ענון - אליאס 91.135.107.189:90 2 942Anun!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת בית ענון 46.210.113.171:90 2 942Anun!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה עיקול היין 95.35.52.5:90 1 942Ikul!# Dahua . Executing time is: 0.0 seconds.
+- יהודה בית חגי מזרח צפונית 130.185.100.96:90 1 942Bhmz!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס 418 37.25.35.166:90 3 942P418!$ Hikvision . Executing time is: 0.0 seconds.
+- יהודה בית חגי מזרח דרומית 2.54.234.63:90 2 942Bhmd! Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת זיף 91.135.107.188:90 3 942Zzif!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת זיף 91.135.107.188:90 2 942Zzif!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת א-סויה 2.55.77.119:90 1 942Asui!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת בני נעים  46.210.116.41:90 1 942Anai!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת בני נעים  46.210.116.41:90 2 942Anai!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת פני חבר 95.35.54.244:90 1 942Zpne!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת פני חבר 95.35.54.244:90 2 942Zpne!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת זיף 91.135.107.188:90 1 942Zzif!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת האורות 2.55.109.36:90 1 942Zhoro!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת האורות 2.55.109.36:90 2 942Zhoro!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה גשר אוקינוס 46.210.123.228:90 1 942Okia!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה גשר אוקינוס 46.210.123.228:90 2 942Okia!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת מעבר ריחן 95.35.31.229:90 1 942Zmar!# Dahua . Executing time is: 0.0 seconds.
+- מנשה צומת מעבר ריחן 95.35.31.229:90 2 942Zmar!# Dahua . Executing time is: 0.0 seconds.
+- מנשה צומת מעבר ריחן 95.35.31.229:90 3 942Zmar!# Dahua . Executing time is: 0.0 seconds.
+- בנימין צומת 538 (203) 46.210.113.240:90 1 942Z538!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס ראס כרכר 80.250.152.42:90 1 942Rask!$ Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת 0- מזרח\מערב (144) 80.250.156.69:90 1 942Z0mm!# Dahua . Executing time is: 0.0 seconds.
+- מנשה צומת 0- מזרח\מערב (144) 80.250.156.69:90 2 942Z0mm!# Dahua . Executing time is: 0.0 seconds.
+- מנשה צומת אום ריחן 95.35.112.8:90 2 942Zumr!# Dahua . Executing time is: 0.0 seconds.
+- אפרים צומת חארס (45) 80.250.153.107:90 3 942Hars!$ Hikvision . Executing time is: 0.0 seconds.
+- עציון מחסום הקיוסק 46.210.108.233:90 1 942Kios!# Hikvision . Executing time is: 0.0 seconds.
+- עציון מגדל עוז 84.228.164.214:91 3 942Mioz!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת 100 - ג'בעה 85.159.164.99:90 1 942Z100!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת 330 - בית לחם 130.185.100.99:90 1 942P330!# Dahua . Executing time is: 0.0 seconds.
+- עציון צומת 330 - בית לחם 130.185.100.99:90 2 942P330!# Dahua . Executing time is: 0.0 seconds.
+- עציון פילבוקס 100 130.185.100.102:90 2 942P100!# Dahua . Executing time is: 0.0 seconds.
+- עציון פילבוקס 100 130.185.100.102:90 4 942P100!# Dahua . Executing time is: 0.0 seconds.
+- עציון אפרת הואלי 95.35.28.175:90 1 942Efdh!# Dahua . Executing time is: 0.0 seconds.
+- שומרון צומת רחלים 80.250.152.116:90 1 Rachel564@ Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת 100 - ג'בעה 85.159.164.99:90 2 942Z100!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת אום צפא 2.55.107.169:90 2 942Umtz!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת גבעות 37.25.39.142:90 1 942Gvao!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה בית חגי מזרח צפונית 130.185.100.96:90 2 942Bhmz!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת גבעות 37.25.39.142:90 3 942Gvao!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת קדומים 95.35.28.160:90 1 942Zkdo!# Hikvision . Executing time is: 0.0 seconds.
+- עציון מוצב פנורמה 46.210.120.91:90 1 942Pano!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת רפידא 176.12.161.150:90 1 942Rafi!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת רפידא 176.12.161.150:90 2 942Rafi!# Hikvision . Executing time is: 0.0 seconds.
+- עציון כיכר הרודיון 46.210.102.107:90 1 942Hero!# Hikvision . Executing time is: 0.0 seconds.
+- עציון מעלה אדומים 7 מגה 95.35.53.192:90 3 942Madu!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת ביר זית עליון 188.64.203.100:90 1 942Zbze!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מזרח 1 80.250.156.12:90 1 942Ele1!$ Hikvision . Executing time is: 0.0 seconds.
+- הבקעה מצוקי דרגות (חסם) 46.210.125.56:90 1 942Metz!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת קדומים 95.35.28.160:90 2 942Zkdo!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת תפוח 46.210.119.216:90 1 942Ztap!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת רחלים 95.35.28.80:90 1 Rachel564@ Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת 748 (9M) 176.12.133.133:90 2 942Z328!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מזרח 3 82.102.157.24:90 3 942Ele3!$ Hikvision . Executing time is: 0.0 seconds.
+- עציון עזריה - כיכר מעלה אדומים 130.185.100.97:90 2 942Cmad!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון דיר שרף 95.35.54.86:90 1 942Dshe!# Dahua . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מזרח 2 91.135.108.217:90 1 942Ele2!$ Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת חוות גלעד 95.35.55.152:90 1 942Zhag!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת 143 (197) 95.35.54.243:90 2 942Z197!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 751 (36) 80.250.151.223:90 1 942Z751!$ Hikvision . Executing time is: 0.0 seconds.
+- שומרון ציר מלך - אצבע גביע 46.210.120.2:90 1 942Zmel!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון ציר מלך - אצבע גביע 46.210.120.2:90 3 942Zmel!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת כפר תפוח 176.12.135.210:90 2 942Zktap!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת תפוח מערב 185.196.126.224:90 2 tapuhW890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון רחלים 95.35.29.31:90 2 942Rahe!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת יצהר הגדולה - 147 2.55.88.226:90 1 942Zitz!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת יצהר הגדולה - 147 2.55.88.226:90 2 942Zitz!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת איתמר 95.35.53.154:90 1 942Zita!# Dahua . Executing time is: 0.0 seconds.
+- שומרון צומת איתמר 95.35.53.154:90 2 942Zita!# Dahua . Executing time is: 0.0 seconds.
+- שומרון צומת עקרבה 176.12.135.97:90 1 942Akra!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון חווה 7 2.55.96.90:90 1 942Zhav7!# Hikvision . Executing time is: 0.0 seconds.
+ כמות המצלמות בעלות תקינות גבוהה 
+----------------------------------------------
+מצלמות עם תקינות בינונית:
+
+-----------------------------------------------מצלמות עם תקינות נמוכה:
+- בנימין בעל חצור 95.35.26.184:90 2 942Hatz!# Hikvision . Executing time is: 0.015625 seconds.
+- עציון גשר זעתרה 80.250.159.50:90 2 942Zata!# Hikvision . Executing time is: 0.015625 seconds.
+- הבקעה חסם בקעות 130.185.98.242:90 1 942Bkao!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים מוצב 422 46.210.108.248:90 2 942Mutz!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים מוצב 422 46.210.108.248:90 3 942Mutz!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים ג'ינספוט 2.55.64.116:90 1 942Jins!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים ג'ינספוט 2.55.64.116:90 2 942Jins!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים מוצב 422 46.210.108.248:90 1 942Mutz!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים נבי אליאס מערב 3 95.35.112.105:90 1 942Elw3!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים ג'ינספוט מערב 46.210.83.125:90 1 942Jins!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת יקיר הקטנה 46.210.103.169:90 1 942Yaki!$ Hikvision . Executing time is: 0.0 seconds.
+- בנימין פוקוס 7 מגה 109.253.3.90:90 1 942Focu!$ Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת הלידו 2.55.74.241:90 1 942Lido!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת עאבוד 46.210.115.9:90 2 942Zabu!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת חלמיש 82.102.149.142:90 1 942Halm!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת חלמיש 82.102.149.142:90 2 942Halm!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת חלמיש 82.102.149.142:90 3 942Halm!$ Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת 105 - מיצד 46.210.113.96:90 2 942Z105!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת עמוס-T 80.250.159.141:90 2 942Amos!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון כיכר החטיבה 95.35.112.69:90 1 RamOs!781 Hikvision . Executing time is: 0.0 seconds.
+- שומרון כיכר החטיבה 95.35.31.80:90 1 RamOs!781 Hikvision . Executing time is: 0.0 seconds.
+- שומרון כיכר החטיבה 95.35.31.252:90 1 RamOs!781 Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת הגז 46.210.85.150:90 1 942Zgaz!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת ג'ית 46.210.84.109:90 2 942Zjit!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין ציר אלכסה (כאוס) 2.55.107.164:90 1 942Zele! Hikvision . Executing time is: 0.0 seconds.
+- בנימין ליל - 7 מגה  188.64.203.125:90 1 942Mlli!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין מוצב עפרה 2.55.125.142:90 1 942Ofra!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין מוצב עפרה 2.55.125.142:90 2 942Ofra!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין כיכר שילה 95.35.27.210:1025 2 V!21nt875 Dahua . Executing time is: 0.0 seconds.
+- בנימין כיכר שילה 95.35.27.210:1025 1 V!21nt875 Dahua . Executing time is: 0.0 seconds.
+- בנימין בעל חצור 95.35.26.184:90 1 942Hatz!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין מעלה מכמש 95.35.52.85:90 1 942Mach!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין מעלה מכמש 95.35.52.85:90 2 942Mach!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת רימונים 80.250.152.153:90 1 942Rimo!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת רימונים 80.250.152.153:90 2 942Rimo!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת רימונים 80.250.152.153:90 3 942Rimo!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת תומר 46.210.114.140:90 1 942Tome!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת תומר 46.210.114.140:90 2 942Tome!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון מחסום גנות 46.210.98.137:90 3 942Mgan!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת 19 80.250.157.67:90 1 942Zo19!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת 19 80.250.157.67:90 2 942Zo19!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון מחסום גנות 46.210.98.137:90 2 942Mgan!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת בית ענון 46.210.113.171:90 1 942Anun!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת בית ענון 46.210.113.171:90 3 942Anun!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה בני נעים צפון 46.210.84.225:90 1 942bani!# Dahua . Executing time is: 0.0 seconds.
+- מנשה צומת האורות 2.55.109.36:90 3 942Zhoro!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה בולם חרמש 95.35.54.141:90 1 942Bher!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת 0- צפון\דרום (144) 46.210.111.182:90 1 Rich890@ Dahua . Executing time is: 0.0 seconds.
+- עציון כיכר הישובים  80.250.159.229:90 1 Light54@7 Hikvision . Executing time is: 0.0 seconds.
+- עציון כיכר הישובים  80.250.159.229:90 1 Light54@7 Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת 105 - מיצד 46.210.113.96:90 1 942Z105!# Hikvision . Executing time is: 0.0 seconds.
+- עציון גשר זעתרה 80.250.159.50:90 1 942Zata!# Hikvision . Executing time is: 0.0 seconds.
+- עציון גשר חוסאן 95.35.51.144:90 1 942Husa!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים נחליאל 2 84.110.61.50:90 2 EdutM!523 Hikvision . Executing time is: 0.0 seconds.
+- שומרון חווה 5 - כיכר החטיבה 46.210.120.160:90 1 942Zhav5!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת חוות גלעד 95.35.55.152:90 2 942Zhag!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון מחסום גנות 46.210.98.137:90 1 942Mgan!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת ג'ית 46.210.84.109:90 1 942Zjit!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון חסם שומרונים 130.185.98.248:90 1 942Hsho!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון חווה 6 46.210.120.125:90 1 942Hav6!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון חווה 6 46.210.120.125:90 2 942Hav6!# Hikvision . Executing time is: 0.0 seconds.
+
+-----------------------------------------------
+- אפרים בולם 6 95.35.55.129:90 1 942Bol6!$ Hikvision . Executing time is: 0.015625 seconds.
+- אפרים יקיר הקטנה 109.253.5.34:90 1 942Yaki!# Hikvision . Executing time is: 0.015625 seconds.
+- בנימין כיכר שילה 95.35.27.210:1025 3 V!21nt875 Dahua . Executing time is: 0.015625 seconds.
+- עציון פילבוקס 80 (אל ערוב) 80.250.150.79:90 1 942Pi80!# Hikvision . Executing time is: 0.015625 seconds.
+- אפרים נחליאל 3 84.110.61.50:90 3 EdutM!523 Hikvision . Executing time is: 0.015625 seconds.
+- שומרון נחליאל 84.110.61.50:90 1 EdutM!523 Hikvision . Executing time is: 0.015625 seconds.
+- שומרון ג'וריש 46.210.83.142:90 1 942Jori!# Hikvision . Executing time is: 0.015625 seconds.
+- אפרים עאבוד 2.54.232.73:90 1 Shir12345! Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס כיכר אריאל 95.35.55.177:90 1 philariel890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 969 -  מזרח מערב 46.210.86.5:90 2 942Z969!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 969 -  מזרח מערב 46.210.86.5:90 1 942Z969!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת הפרסה 80.250.155.220:90 1  milesight . Executing time is: 0.0 seconds.
+- אפרים דיר אבו משעל  2.55.121.158:81 1 942Dami!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים אריאל 1 46.210.121.247:90 3 942Ariel1!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים ג'מעאין 2.55.85.48:90 1 jamma5m890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים ג'מעאין 2.55.85.48:90 2 jamma5m890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס 180 141.226.91.181:90 3 nili180890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 581 (180) 141.226.91.181:90 3 nili180890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים בולם 6 95.35.55.129:90 2 942Bol6!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס 23 (עזון) 46.210.97.180:90 1 942Pi23!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים פילבוקס 23 (עזון) 80.250.153.130:90 1 942Pi23!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים עזון 46.210.84.139:8080 1 Ship@139 Dahua . Executing time is: 0.0 seconds.
+- אפרים כיכר אלימלך א' 176.12.165.5:90 2 942Elia!$ Dahua . Executing time is: 0.0 seconds.
+- אפרים צומת חלמיש 82.102.149.142:90 4 942Halm!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת גיתאי אבישר 95.35.54.230:90 1 942Giti!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים גשר איסככא 130.185.98.241:90 1 iscaca890! Hikvision . Executing time is: 0.0 seconds.
+- בנימין חיזמא נכנסים לירושלים 109.253.3.199:90 1 Sty1e03! Hikvision . Executing time is: 0.0 seconds.
+- בנימין חיזמא יוצאים מירושלים 109.253.3.199:90 2 Sty1e03! Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 50 82.20.33.42:1025 1 Vis@#578@ Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 50 82.20.33.42:1025 2 Vis@#578@ Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 50 82.20.33.42:1025 3 Vis@#578@ Hikvision . Executing time is: 0.0 seconds.
+- בנימין חניון קטן 209.253.1.61:90 1 942Pkat!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין חניון קטן 109.253.1.61:91 1  Hikvision . Executing time is: 0.0 seconds.
+- בנימין חניון עין מבוע 130.185.100.95:90 1 942Hema!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין חניון עין מבוע 130.185.100.95:90 2 942Hema!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת רימונים  46.210.96.212:90 1 rimon!sukar Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 187 95.35.26.173:90 1 AlonBalon!895 Hikvision . Executing time is: 0.0 seconds.
+- בנימין הר הזבל 46.210.83.103:90 2 942Mzev!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין הר הזבל 46.210.83.103:90 1 942Mzev!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת סינג'יל 46.210.85.21:90 1 Levonacam$! Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת מעלה לבונה צפון 95.35.54.219:90 2 levona890! Hikvision . Executing time is: 0.0 seconds.
+- בנימין עפרה 46.210.84.134:8080 1 Hors@016 Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 187 95.35.26.234:90 1 AlonBalon!895 Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 187 95.35.26.234:90 2 AlonBalon!895 Hikvision . Executing time is: 0.0 seconds.
+- בנימין מעבר קלנדיה - אופק 1 95.35.54.151:90 1 942Mkal! Hikvision . Executing time is: 0.0 seconds.
+- בנימין מעבר קלנדיה - אופק 1 46.210.84.144:90 1 942Mkal! Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 203 46.210.113.240:90 3 2039m890! Hikvision . Executing time is: 0.0 seconds.
+- בנימין פסגות - עיקול האדום 95.35.28.72:90 1 942Psea! Hikvision . Executing time is: 0.0 seconds.
+- בנימין ע' 28 (פסגות) 95.35.29.5:90 1 psagot890! Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת גבעת אסף 91.135.101.91:90 1 V!21nt875 Hikvision . Executing time is: 0.0 seconds.
+- בנימין ציר תות 46.210.106.39:1025 2 V!21nt875 Hikvision . Executing time is: 0.0 seconds.
+- בנימין מוצב אולימפוס 46.210.109.15:90 1 942Moli! Hikvision . Executing time is: 0.0 seconds.
+- בנימין פילבוקס 48 2.55.65.137:90 1 942Pi48! Hikvision . Executing time is: 0.0 seconds.
+- בנימין פילבוקס 48 2.55.65.137:90 2 942Pi48! Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 152 95.35.27.111:90 2 AlonBalon!895 Hikvision . Executing time is: 0.0 seconds.
+- בנימין  לובן דרומי 95.35.55.52:80 1 N/A Dahua . Executing time is: 0.0 seconds.
+- בנימין לובן בתי ספר הברושים 95.35.55.37:80 1 N/A Hikvision . Executing time is: 0.0 seconds.
+- בנימין לובן ברושים PTZ 95.35.54.99:80 1 N/A Dahua . Executing time is: 0.0 seconds.
+- בנימין לובן צפוני 95.35.53.68:80 1 N/A Dahua . Executing time is: 0.0 seconds.
+- בנימין מחסום בל 141.226.94.138:90 1 942Bell!# Dahua . Executing time is: 0.0 seconds.
+- בנימין מחסום בל 141.226.94.138:90 2 942Bell!# Dahua . Executing time is: 0.0 seconds.
+- בנימין מחסום בל 141.226.94.138:90 3 942Bell!# Dahua . Executing time is: 0.0 seconds.
+- בנימין ציר אלכסה (כאוס) 2.55.107.164:90 2 942Zele! Hikvision . Executing time is: 0.0 seconds.
+- בנימין ציר אלכסה (כאוס) 2.55.107.164:90 3 942Zele! Hikvision . Executing time is: 0.0 seconds.
+- בנימין עין תות 46.210.106.39:90 2 V!21nt875 Dahua . Executing time is: 0.0 seconds.
+- בנימין חיזמא צומת 12 176.12.134.224:90 3 942Hizm!# Dahua . Executing time is: 0.0 seconds.
+- בנימין חיזמא צומת 12 176.12.134.224:90 4 942Hizm!# Dahua . Executing time is: 0.0 seconds.
+- בנימין חיזמא צומת 12 46.210.120.249:90 1 942Hizm!# Dahua . Executing time is: 0.0 seconds.
+- בנימין חיזמא - צומת 14 (ציר בטחון ענטא) 176.12.133.231:90 1 942Htah!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין תורמוסעייא 95.35.26.70:8080 1 Hors@169 Dahua . Executing time is: 0.0 seconds.
+- בנימין צומת 152 95.35.27.111:90 1 AlonBalon!895 Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת שילה 176.12.162.122:1025 1 V!21nt875 Dahua . Executing time is: 0.0 seconds.
+- הבקעה צומת הלידו 2.55.74.241:90 2 942Lido!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה נווה אור -744 46.210.114.92:8080 1 Hors@092 dark fighter . Executing time is: 0.0 seconds.
+- הבקעה ק.ד 46.210.119.106:8080 1 Ship@106  . Executing time is: 0.0 seconds.
+- הבקעה מצוקי דרגות (עלייה) 46.210.119.171:90 1 942Metz!# Dahua . Executing time is: 0.0 seconds.
+- הבקעה מצוקי דרגות (חסם) 46.210.125.56:90 2 942Metz!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה צומת בית הערבה 85.159.162.191:90 1 942Bhar!# Hikvision . Executing time is: 0.0 seconds.
+- הבקעה חסם תייסר 91.135.107.174:90 1 942Tais!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת אל פוואר - 123 צפון 85.159.165.245:90 1 942Alfa!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת אל פוואר - 123 צפון 85.159.165.245:90 2 942Alfa!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת יהודה 95.35.55.192:90 1 942Yehu!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת הכבשים - ואדי סימן    46.210.85.227:90 1 kvasimA890! Hikvision . Executing time is: 0.0 seconds.
+- יהודה סוסיא/רוג'ום 95.35.55.18:90 1 susia890! Dahua . Executing time is: 0.0 seconds.
+- הבקעה ק.ד 876 95.35.31.95:8080 1 Ship@095 Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת יהודה  מערב 46.210.106.70:90 1 942Zyet!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת יהודה מערב 46.210.106.70:90 2 942Zyet!# Dahua . Executing time is: 0.0 seconds.
+- יהודה קילקס (צפונית) 46.210.119.18:90 1 942Kilz!# Dahua . Executing time is: 0.0 seconds.
+- יהודה קילקס (דרומית) 91.135.108.24:90 1 942Kild!# Dahua . Executing time is: 0.0 seconds.
+- יהודה קילקס (דרומית) 91.135.108.24:90 2 942Kild!# Dahua . Executing time is: 0.0 seconds.
+- יהודה צומת הכבשים  80.250.154.90:90 1 942Kvas!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת הכבשים  80.250.154.90:90 2 942Kvas!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה מתג 7 109.253.1.141:8080 1 Hors@141 Dahua . Executing time is: 0.0 seconds.
+- מנשה ספארין 2.55.82.166:90 1 safarin890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה ספארין 2.55.82.166:90 2 safarin890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה בית ליד 2.54.87.207:90 1 baitlid890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה בית ליד 2.54.87.207:90 2 baitlid890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה מוצב ג'למה 95.35.54.109:90 1 942Msal!# Dahua . Executing time is: 0.0 seconds.
+- מנשה ניצני שלום 82.102.164.193:91 1 nitzanesh890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה ניצני שלום 95.35.54.181:90 3 nitzanesh890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה מבוא דותן 84.110.163.70:93 4 942Mdot!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה פילבוקס 185 84.110.163.70:91 1 942P185!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה פילבוקס 185 84.110.163.70:91 2 942P185!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה פילבוקס 185 84.110.163.70:91 3 942P185!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה ג'למה/מעבר גלבוע 109.253.1.215:90 1 942Jala!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה מעבר סאלם 95.35.54.178:90 1 942Msal!# Dahua . Executing time is: 0.0 seconds.
+- מנשה ניצני שלום 95.35.54.181:90 1 942Nitza!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה ניצני שלום 95.35.54.181:90 2 942Nitza!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה מעבר סאלם 95.35.54.178:90 1 942Msal!# Dahua . Executing time is: 0.0 seconds.
+- מנשה פילבוקס -104 95.35.24.108:8080 1 Hors@108 Dahua . Executing time is: 0.0 seconds.
+- מנשה חווה 8 95.35.27.255:90 1 942Hava8!# Dahua . Executing time is: 0.0 seconds.
+- מנשה חווה 8 95.35.27.255:90 2 942Hava8!# Dahua . Executing time is: 0.0 seconds.
+- מנשה צומת האורות 2.55.109.36:90 4 942Zhoro!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת אבני חפץ 141.226.91.188:90 1 avnatz890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת אבני חפץ 141.226.91.188:90 2 avnatz890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת 8 80.250.152.117:8080 1 Ship@117 Dahua . Executing time is: 0.0 seconds.
+- עציון כיכר הישובים  95.35.27.112:90 2 Light54@7 Hikvision . Executing time is: 0.0 seconds.
+- עציון כיכר הישובים  95.35.27.112:90 1 Light54@7 Hikvision . Executing time is: 0.0 seconds.
+- עציון עוקף בית אומר 46.210.82.61:90 1 beitu890! Hikvision . Executing time is: 0.0 seconds.
+- עציון עוקף בית אומר 46.210.82.61:90 2 beitu890! Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת חלחול צפון 80.250.159.2:90 2 942Zhiz!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת הגוש 46.210.123.133:90 1 942Gush!# Hikvision . Executing time is: 0.0 seconds.
+- עציון אפרת דרום (לצפון) 95.35.54.161:90 1 942Efdz!# Dahua . Executing time is: 0.0 seconds.
+- עציון אפרת דרום (לצפון) 95.35.54.161:90 2 942Efdz!# Dahua . Executing time is: 0.0 seconds.
+- עציון אפרת דרום (לדרום) 95.35.54.148:90 1 942Efdd!# Dahua . Executing time is: 0.0 seconds.
+- עציון אפרת דרום (לדרום) 95.35.54.148:90 2 942Efdd!# Dahua . Executing time is: 0.0 seconds.
+- עציון אפרת דרום (לדרום) 95.35.54.148:90 3 942Efdd!# Dahua . Executing time is: 0.0 seconds.
+- עציון רמי לוי 46.210.123.23:90 2 942Mram!# Hikvision . Executing time is: 0.0 seconds.
+- עציון רמי לוי 46.210.123.23:90 2 942Mram!# Hikvision . Executing time is: 0.0 seconds.
+- עציון רמי לוי 46.210.123.23:90 3 942Mram!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת כרמי צור 2.55.121.155:90 1 942Zczu!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת חלחול צפון 80.250.159.2:90 1 942Zhiz!# Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת חלחול צפון 7 מגה 95.35.27.26:90 1 942Zhiz!# Hikvision . Executing time is: 0.0 seconds.
+- עציון בית סאחור 95.35.55.20:90 2 942Saho!# Hikvision . Executing time is: 0.0 seconds.
+- עציון בית סאחור 95.35.55.20:90 1 942Saho!# Hikvision . Executing time is: 0.0 seconds.
+- עציון פילבוקס 80 (אל ערוב) 80.250.150.79:90 1 942Pi80!# Hikvision . Executing time is: 0.0 seconds.
+- עציון פילבוקס 80 (אל ערוב) 80.250.150.79:90 1 942Pi80!# Hikvision . Executing time is: 0.0 seconds.
+- עציון פילבוקס 90 (אל ערוב) 109.253.1.199:90 1 942P90b!# Hikvision . Executing time is: 0.0 seconds.
+- עציון פילבוקס 90 (אל ערוב) 109.253.1.199:90 1 942P90b!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים נחליאל 4 84.110.61.50:90 4 EdutM!523 Hikvision . Executing time is: 0.0 seconds.
+- שומרון מרדה ג'מעאין 46.210.127.115:1025 1 Mermer871 Hikvision . Executing time is: 0.0 seconds.
+- שומרון מרדה ג'מעאין 46.210.127.115:1025 2 Mermer871 Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת תפוח מזרח 46.210.108.231:90 1 tapuhE890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת תפוח מזרח 46.210.108.231:90 2 tapuhE890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת X 95.35.29.233:8080 1 Hors@048 Dahua . Executing time is: 0.0 seconds.
+- שומרון צומת הביתות 80.250.153.40:8080 1 Hors@040 Dahua . Executing time is: 0.0 seconds.
+- שומרון חומש (עלייה) 2.55.64.88:90 1 homesh890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון חומש (עלייה) 2.55.64.88:90 2 homesh890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון עוסרין 2.55.71.117:90 1 942Osar!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון נחליאל 84.110.61.50:90 2 EdutM!523 Hikvision . Executing time is: 0.0 seconds.
+- שומרון נחליאל 84.110.61.50:90 3 EdutM!523 Hikvision . Executing time is: 0.0 seconds.
+- שומרון נחליאל 84.110.61.50:90 4 EdutM!523 Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת רחלים 95.35.28.80:90 2 Rachel564@ Hikvision . Executing time is: 0.0 seconds.
+- שומרון מקורות - תפוח 95.35.112.27:90 1 Mekorot#23Ba$ Hikvision . Executing time is: 0.0 seconds.
+- שומרון מקורות - תפוח 95.35.112.27:90 2 Mekorot#23Ba$ Hikvision . Executing time is: 0.0 seconds.
+- שומרון מקורות - תפוח 95.35.112.27:90 3 Mekorot#23Ba$ Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת יצהר הגדולה  82.102.165.244:90 1 V!21nt875 Hikvision . Executing time is: 0.0 seconds.
+- שומרון חומש 80.250.154.230:90 1 homesh890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון הכניסה לחומש 80.250.154.230:90 1 homesh890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון כיכר אריאל 109.253.5.195:1025 1 Ariari871 Dahua . Executing time is: 0.0 seconds.
+- שומרון מוצב הסלע 95.35.55.11:90 1 942Msel!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון ג'וריש 46.210.83.142:90 2 942Jori!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון ג'וריש 46.210.83.142:90 3 942Jori!# Hikvision . Executing time is: 0.0 seconds.
+- -*/ כרמון - 55 46.210.85.8:90 1 942Carm!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון ציר מלך - אצבע גביע 46.210.120.2:90 2 942Zmel!# Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת תפוח דרום 141.226.91.186:90 1 tapuhS890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת תפוח דרום 141.226.91.186:90 2 tapuhS890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת תפוח דרום 141.226.91.186:90 3 tapuhS890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון גשר כאחול - חווארה 46.210.82.112:8080 1 Hors@001 Dahua . Executing time is: 0.0 seconds.
+-   :    . Executing time is: 0.0 seconds.
+מצלמות שנדרשות לקינפוג פורט:
+-----------------------------------------------
+- הבקעה ברוש הבקעה (צפוני) 91.135.107.186:90 1 942Broz!# Hikvision . Executing time is: 0.015625 seconds.
+- בנימין צומת מעלה לבונה צפון 46.210.117.137:90 1 levona890! Dahua . Executing time is: 0.0 seconds.
+- הבקעה בית הערבה 91.135.108.222:90 2 942Bhar!# Hikvision . Executing time is: 0.0 seconds.
+- עציון מגדל עוז 84.228.164.214:91 2 942Mioz!# Hikvision . Executing time is: 0.0 seconds.
+- בנימין צומת 152 95.35.28.13:90 1 AlonBalon!895 Hikvision . Executing time is: 0.0 seconds.
+מצלמות שיש להם בעיה בהתחברות:
+-----------------------------------------------
+- עציון אפרת צפון 330 דרומי 1 46.210.86.122:90 1 phil330890! Hikvision . Executing time is: 0.015625 seconds.
+- יהודה צומת אידנא-תרקומיא(109) 46.210.84.120:90 2 942Zidt!# Hikvision . Executing time is: 0.015625 seconds.
+- אפרים צומת 581 (180) 141.226.91.182:90 1 942Z581!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 969 - צפון/דרום 2.55.116.239:90 1 710NS890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים יקיר הקטנה 109.253.5.34:90 2 942Yaki!# Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 751 (36) 80.250.151.223:90 2 362m890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 969 - צפון/דרום 2.55.116.239:90 2 710NS890! Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת 19 (9 מגה) 95.35.61.115:90 1 yaniv318 Hikvision . Executing time is: 0.0 seconds.
+- מנשה צומת האורות 2.55.68.103:90 2 orot7m890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים נווה צוף 95.35.25.131:8080 1 Ship@131 Hikvision . Executing time is: 0.0 seconds.
+- עציון אפרת צפון 330 דרומי 2 46.210.86.61:90 1 phil330890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 094- מזרח/מערב (34) 95.35.55.159:90 1 942Zns4!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 094- מזרח/מערב (34) 95.35.55.159:90 2 942Zns4!$ Hikvision . Executing time is: 0.0 seconds.
+- אפרים צומת 094- צפון\דרום (34) 46.210.82.49:90 1 34yakir890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים גשר איסככא 95.35.54.76:90 1 ischacha890! Hikvision . Executing time is: 0.0 seconds.
+- אפרים גשר איסככא 130.185.98.241:90 2 iscaca890! Hikvision . Executing time is: 0.0 seconds.
+- בנימין ציר תות 46.210.106.39:1025 1 V!21nt875 Hikvision . Executing time is: 0.0 seconds.
+- הבקעה ק.ד 560 80.250.156.249:8080 1 Hors@249 Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת חרבת-כרמה צפון 82.102.184.214:90 1 942Karm!# Hikvision . Executing time is: 0.0 seconds.
+- יהודה צומת חרבת-כרמה צפון 82.102.184.214:90 2 942Karm!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה שופא 91.135.108.1:90 1 942Shuf!# Hikvision . Executing time is: 0.0 seconds.
+- מנשה פילבוקס 85 84.110.163.70:90 1 phil85890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה פילבוקס 85 84.110.163.70:90 3 phil85890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה בחן 46.210.82.146:8080 1 Ship@146 Hikvision . Executing time is: 0.0 seconds.
+- מנשה פילבוקס 90 84.110.163.70:91 1 phil85890! Hikvision . Executing time is: 0.0 seconds.
+- מנשה מירב 176.12.165.164:8080 1 Ship@164 Hikvision . Executing time is: 0.0 seconds.
+- עציון מוצב פנורמה 46.210.100.115:90 1 942Pano!# Hikvision . Executing time is: 0.0 seconds.
+- עציון מוצב פנורמה 46.210.100.115:90 2 942Pano!# Hikvision . Executing time is: 0.0 seconds.
+- עציון אל חאדר ראשי 46.210.84.30:90 1 hudan890! Hikvision . Executing time is: 0.0 seconds.
+- עציון צומת עמוס-T 46.210.127.235:90 1 942Saho!# Hikvision . Executing time is: 0.0 seconds.
+- עציון אל חאדר מערב 46.210.86.25:90 1 husan890! Hikvision . Executing time is: 0.0 seconds.
+- עציון גשר אל חאדר 46.210.83.124:90 1 husan890! Hikvision . Executing time is: 0.0 seconds.
+- בנימין המשטרה הבריטית 1 130.185.102.3:90 1 mishtara890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון כיכר קדומים 130.185.102.8:90 1 kdomim890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת מגדלים 109.253.3.47:90 1 migdalim890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת מגדלים 109.253.3.47:90 2 migdalim890! Hikvision . Executing time is: 0.0 seconds.
+- שומרון צומת מגדלים 109.253.3.47:90 3 migdalim890! Hikvision . Executing time is: 0.0 seconds.
+-----------------------------------------------
+מצלמות שלא מגיבות לבקשות:
+- יהודה צומת מעון 95.35.52.67:90 1 942Maon!# Hikvision . Executing time is: 0.015625 seconds.
+- יהודה כיכר תרקומיא 2.55.85.83:90 1 942Ctar!# Dahua . Executing time is: 0.0 seconds.
+- יהודה כיכר תרקומיא 2.55.85.83:90 2 942Ctar!# Dahua . Executing time is: 0.0 seconds.
+-----------------------------------------------
+זמן ריצה של התוכנית היא: 1159.6695711612701 seconds
